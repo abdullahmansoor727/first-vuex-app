@@ -1,4 +1,8 @@
-# vuex-crash-course
+# First Vuex Application - Todo App
+
+This application was developed to get a better understanding of how Vuex manages state in Vue.js. A live demo of the todo app can be seen at https://abdullahmansoor727.github.io/first-vuex-app/
+
+The Application uses a fake API services <a href="https://jsonplaceholder.typicode.com/todos">(jsonplaceholder)</a> to simulate a backend and db.
 
 ## Project setup
 ```
