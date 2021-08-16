@@ -1,4 +1,4 @@
-# First Vuex Application - Todo App
+# First Vue Application with Vuex - Todo App
 
 This application was developed to get a better understanding of how Vuex manages state in Vue.js. A live demo of the todo app can be seen at https://abdullahmansoor727.github.io/first-vuex-app/
 
